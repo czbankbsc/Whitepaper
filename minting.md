@@ -8,7 +8,7 @@ Partners enjoys benefits like: ・Verified Mark ・Dedicated NFT Collection Page
 
 
 
-## Minting Button&#x20;
+## Minting Button  [🛎️](https://emojipedia.org/bellhop-bell/)
 
 
 
@@ -23,11 +23,13 @@ Partners enjoys benefits like: ・Verified Mark ・Dedicated NFT Collection Page
 
 ## **Minting Price**&#x20;
 
-0.**1**BNB for public minting
+**Free** [🛎️](https://emojipedia.org/bellhop-bell/)for Whitelist address ! (Please pay attention to the official announment)&#x20;
 
-TOTAL SUPPLY: 500
+0.**15**BNB for public minting
 
-MAX MINT: 5 PER WALLET
+TOTAL SUPPLY: 500 (Presale Stage)
+
+MAX MINT: 1 PER WALLET
 
 💎90% FUNDS INTO BUYBACKS
 

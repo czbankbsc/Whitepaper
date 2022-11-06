@@ -3,7 +3,7 @@ cover: .gitbook/assets/64.png
 coverY: 0
 ---
 
-# Cz🔶NFT WhitePaper
+# Cz🔶BANK WhitePaper
 
 ## The project that inspired the modern CryptoArt movement
 
@@ -17,5 +17,5 @@ coverY: 0
 * Website Mint function ☑️
 * ToFu NFT Marketplace certification ☑️ [https://tofunft.com/](https://tofunft.com/)&#x20;
 * PinkSale Presale : Audit and KYC ☑️
-* AMA&#x20;
-* NFT Staking and Share of BEP-20 Token marketing wallet. &#x20;
+* AMA  [🛎️](https://emojipedia.org/bellhop-bell/)
+* NFT Staking and Share of BEP-20 Token marketing wallet.  [🛎️](https://emojipedia.org/bellhop-bell/) &#x20;
