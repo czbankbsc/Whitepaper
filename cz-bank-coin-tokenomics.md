@@ -2,7 +2,7 @@
 
 * [ ] **Token Name :** CZ Bank Coin
 * [ ] **SYMBOL： CBC**
-* [ ] **LOGO:** ![](.gitbook/assets/LOGO.png)
+* [ ] **LOGO:** ![](.gitbook/assets/NEWLOGO.png)
 
 |  Total Supply |                     Taxation                    |
 | :-----------: | :---------------------------------------------: |
