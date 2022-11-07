@@ -27,7 +27,7 @@ Partners enjoys benefits like: ・Verified Mark ・Dedicated NFT Collection Page
 
 0.**15**BNB for public minting
 
-TOTAL SUPPLY: 500 (Presale Stage)
+TOTAL SUPPLY: 1000
 
 MAX MINT: 1 PER WALLET
 
@@ -35,3 +35,6 @@ MAX MINT: 1 PER WALLET
 
 💎10% AUTO-BUYBACK AND REWARDED TO HOLDERS OF THE NEW COLLECTION
 {% endhint %}
+
+<figure><img src=".gitbook/assets/Blue 3D and Modern Roadmap NFTs Your Story(1) (3).png" alt=""><figcaption></figcaption></figure>
+
