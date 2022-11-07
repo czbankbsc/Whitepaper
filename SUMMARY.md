@@ -8,5 +8,6 @@
 * [CZNFT PREVIEW](cznft-preview.md)
 * [NFT Holder and Presale](nft-holder-and-presale.md)
 * [CZ BANK Coin TOKENOMICS](cz-bank-coin-tokenomics.md)
+* [Token Distribution](token-distribution.md)
 * [Audit and KYC](audit-and-kyc.md)
 * [ROADMAP](roadmap.md)
