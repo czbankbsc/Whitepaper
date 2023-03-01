@@ -8,9 +8,15 @@
 * NFT Trading on TOFUNFT Marketing [🛎️](https://emojipedia.org/bellhop-bell/)
 * DAPP of CZNFT (coming soon) &#x20;
 
-## Presale Whitelist ![](<.gitbook/assets/image (2).png>)
+## Presale Whitelist&#x20;
 
-## Cz NFT Presale Will be hold on ![](<.gitbook/assets/image (1).png>)
+Discord whitelist competition
+
+Twitter competition
+
+DogeFood Pre- NFT holders and token holders
+
+## Cz NFT Presale Will be hold on ![](.gitbook/assets/Unicrypt\_Logo\_Horizontal\_\(For\_Dark\_BG\).png)
 
 ## Audit and KYC&#x20;
 

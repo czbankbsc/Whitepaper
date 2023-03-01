@@ -2,9 +2,11 @@
 
 * [ ] **Token Name :** CZ Bank Coin
 * [ ] **SYMBOL：  CBC**
-* [ ] **LOGO:** ![](.gitbook/assets/NEWLOGO.png)
+*   [ ] **LOGO:**&#x20;
 
-|   Total Supply  |                        Taxation                       |
-| :-------------: | :---------------------------------------------------: |
-| **200,000,000** | **6% (1%Liquidity 2%NFT DAO Funding, 3%Marketing )**  |
-|                 |                                                       |
+    <figure><img src=".gitbook/assets/NEWLOGO.png" alt=""><figcaption></figcaption></figure>
+
+|   Total Supply  |                               Taxation                               |
+| :-------------: | :------------------------------------------------------------------: |
+| **200,000,000** | 5**% (1%Liquidity 1%NFT DAO Funding and LP staking, 3%Marketing )**  |
+|                 |                                                                      |

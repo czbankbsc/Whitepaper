@@ -4,11 +4,13 @@
 
 ### Phase 1 [✅](https://emojipedia.org/check-mark-button/)
 
-* Presale on PINKSALE
+* Presale on Unicrypt , BabyDoge Rounter
 * Create socials media
 * Release website
 * Release whitepaper
 * Release NFT minting (500 for presale stages ) [🛎️](https://emojipedia.org/bellhop-bell/)
+* Release token staking (BABYDOGESWAP) [🛎️](https://emojipedia.org/bellhop-bell/)&#x20;
+* Official LP Farming (BNB+CBC)staking for BNB reward on Babydogeswap
 
 
 
@@ -27,7 +29,6 @@
 
 #### Phase 3[✅](https://emojipedia.org/check-mark-button/)
 
-* Release token staking (BABYDOGESWAP) [🛎️](https://emojipedia.org/bellhop-bell/)&#x20;
 * Own Website Staking $CBC for $BNB reward  [🛎️](https://emojipedia.org/bellhop-bell/)
 * Establish partnerships with influencers
 * Release NFT staking DAPP

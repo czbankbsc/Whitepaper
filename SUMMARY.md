@@ -2,11 +2,13 @@
 
 * [Cz🔶BANK WhitePaper](README.md)
 * [Vision](vision.md)
+* [BabyDoge Partnership](babydoge-partnership.md)
 * [NFT Design](nft-design.md)
 * [NFT Design Details](nft-design-details.md)
 * [Minting](minting.md)
 * [CZNFT PREVIEW](cznft-preview.md)
 * [NFT Holder and Presale](nft-holder-and-presale.md)
+* [NFT Staking DAPP](nft-staking-dapp.md)
 * [CZ BANK Coin TOKENOMICS](cz-bank-coin-tokenomics.md)
 * [Token Distribution](token-distribution.md)
 * [Audit and KYC](audit-and-kyc.md)
